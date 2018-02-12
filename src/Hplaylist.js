@@ -986,6 +986,335 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
+                    name: 'Twist Kamariya',
+                    author: 'Bareilly ki Barfi',
+                    src: 'src/1 (211).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Uyiren uyire',
+                    author: 'Zero',
+                    src: 'src/1 (212).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Uyire',
+                    author: 'Poojai',
+                    src: 'src/1 (213).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'What Love is',
+                    author: 'Black Mirror',
+                    src: 'src/1 (214).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Woh Ajnabee',
+                    author: 'Train',
+                    src: 'src/1 (215).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Yedhodho Enam',
+                    author: 'UKA',
+                    src: 'src/1 (216).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Blockbuster',
+                    author: 'Sarrainodu',
+                    src: 'src/1 (217).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Hustler',
+                    author: 'Josef salvat',
+                    src: 'src/1 (218).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Mile ho tum',
+                    author: 'Fever',
+                    src: 'src/1 (219).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Maahi ve',
+                    author: 'Neha Kakkar',
+                    src: 'src/1 (220).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Bedard',
+                    author: 'UKA',
+                    src: 'src/1 (111).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Bewafa',
+                    author: 'Imran Khan',
+                    src: 'src/1 (112).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Bittu Padam Di',
+                    author: 'GV Prakash',
+                    src: 'src/1 (113).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Black&Yellow',
+                    author: 'Snoop Dogg',
+                    src: 'src/1 (114).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Chahun Main',
+                    author: 'Aashiqui 2',
+                    src: 'src/1 (115).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Challa',
+                    author: 'Crook',
+                    src: 'src/1 (116).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Clique RMX',
+                    author: 'Dj Chani',
+                    src: 'src/1 (117).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Char bhaj gaye',
+                    author: 'Faltu',
+                    src: 'src/1 (118).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Paradise',
+                    author: 'Coldplay',
+                    src: 'src/1 (119).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Dhadikara',
+                    author: 'Sketch',
+                    src: 'src/1 (120).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Dheere Dheere',
+                    author: 'Honey singh',
+                    src: 'src/1 (121).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Turn up',
+                    author: 'Dj Snake&Lil jon',
+                    src: 'src/1 (122).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'I am the one',
+                    author: 'UKA',
+                    src: 'src/1 (123).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Let me love you',
+                    author: 'Dj Snake',
+                    src: 'src/1 (124).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Ek Shaqs',
+                    author: 'UKA',
+                    src: 'src/1 (125).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Jimmiki Kamal',
+                    author: 'UKA',
+                    src: 'src/1 (126).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Enthara',
+                    author: 'UKA',
+                    src: 'src/1 (127).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Kuch khas',
+                    author: 'Fashion',
+                    src: 'src/1 (128).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Gal sun lai',
+                    author: 'Jassi Gill',
+                    src: 'src/1 (129).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Galliyan Unplugged',
+                    author: 'Ek Villan',
+                    src: 'src/1 (130).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Him&I',
+                    author: 'G-eazy&Hasley',
+                    src: 'src/1 (131).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Get outta the way',
+                    author: 'Ludacris',
+                    src: 'src/1 (132).mp3',
+                    cover: 'src/002.jpg'
+                },{
+                    name: 'Gin Gin tare',
+                    author: 'Hassan Abbas',
+                    src: 'src/1 (133).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Gulabi',
+                    author: 'UKA',
+                    src: 'src/1 (134).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Halena',
+                    author: 'Iru mugan',
+                    src: 'src/1 (135).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Hasi',
+                    author: 'UKA',
+                    src: 'src/1 (136).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'High Rated',
+                    author: 'Guru Randhwa',
+                    src: 'src/1 (137).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'How we roll',
+                    author: 'FF5',
+                    src: 'src/1 (138).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Hurts',
+                    author: 'UKA',
+                    src: 'src/1 (139).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Hymm for the weekend',
+                    author: 'Coldplay',
+                    src: 'src/1 (140).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Ik vari',
+                    author: 'Raabta',
+                    src: 'src/1 (141).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Iraiva',
+                    author: 'Hiphop tamila',
+                    src: 'src/1 (142).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Ishq Wala',
+                    author: 'SOTY',
+                    src: 'src/1 (143).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Isqhan de Leke',
+                    author: 'Sajjan Adeeb',
+                    src: 'src/1 (144).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Its Everyday',
+                    author: 'Team 10',
+                    src: 'src/1 (145).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Jeena Jeeena',
+                    author: 'Badlapur',
+                    src: 'src/1 (146).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Sharabi',
+                    author: 'UKA',
+                    src: 'src/1 (147).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Kadhal Vaithu',
+                    author: 'Deepavali',
+                    src: 'src/1 (148).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Kala Chasma',
+                    author: 'Baar Baar Dekho',
+                    src: 'src/1 (149).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Kangalile',
+                    author: 'Pencil',
+                    src: 'src/1 (150).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Kannai Vittu',
+                    author: 'Iru Mugan',
+                    src: 'src/1 (151).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Kanave ',
+                    author: 'Sketch',
+                    src: 'src/1 (152).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Konji Pesida',
+                    author: 'Sethupathi',
+                    src: 'src/1 (153).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Kothani',
+                    author: 'Chandi Veeran',
+                    src: 'src/1 (154).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
+                    name: 'Drama',
+                    author: 'KSHMR',
+                    src: 'src/1 (155).mp3',
+                    cover: 'src/002.jpg'
+                },
+                {
                     name: 'Tum kon Piya',
                     author: 'UKA',
                     src: 'src/1 (210).mp3',
