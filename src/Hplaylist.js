@@ -768,7 +768,7 @@ var player = new skPlayer ({
                 {
                     name: 'HUMBLE',
                     author: 'UKA',
-                    src: 'src/1 (207).mp3',
+                    src: 'src/1 (86).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
