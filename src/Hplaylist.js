@@ -11,12 +11,6 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Amabalaikum Pombalaikum', add
-                       author: 'Kazhugu',
-                       src: 'src/1 (2).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
                        name: 'Aval',
                        author: 'Manithan',
                        src: 'src/1 (3).mp3',
@@ -35,13 +29,13 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Socha hai', add
+                       name: 'Socha hai',
                        author: 'Badhasho',
                        src: 'src/1 (6).mp3',
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Main Tera Boyfriend', maybe
+                       name: 'Main Tera Boyfriend', 
                        author: 'Raabta',
                        src: 'src/1 (7).mp3',
                        cover: 'src/002.jpg'
@@ -71,8 +65,8 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Havana',
-                       author: 'Camila Cabello',
+                       name: 'FALLING',
+                       author: 'UKA',
                        src: 'src/1 (12).mp3',
                        cover: 'src/002.jpg'
                    },
@@ -83,8 +77,8 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Dandanakka',
-                       author: 'Romeo Juliet',
+                       name: 'DOPE',
+                       author: 'PPK',
                        src: 'src/1 (14).mp3',
                        cover: 'src/002.jpg'
                    },
@@ -95,15 +89,9 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Dil Tutda',
-                       author: 'Jassi Gill',
+                       name: 'HATE ME',
+                       author: 'UKA',
                        src: 'src/1 (16).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
-                       name: 'Do You Know',
-                       author: 'Diljit Dosanjh',
-                       src: 'src/1 (17).mp3',
                        cover: 'src/002.jpg'
                    },
                    {
@@ -119,8 +107,8 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'En Chellame',
-                       author: 'Havoc Mathan',
+                       name: 'AIRPLANE',
+                       author: 'LIMBO',
                        src: 'src/1 (20).mp3',
                        cover: 'src/002.jpg'
                    },
@@ -140,12 +128,6 @@ var player = new skPlayer ({
                        name: 'Excuse Me Girl',
                        author: 'Arjun',
                        src: 'src/1 (23).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
-                       name: 'Aint Nobody',
-                       author: 'Felix Jaehn',
-                       src: 'src/1 (24).mp3',
                        cover: 'src/002.jpg'
                    },
                    {
@@ -179,32 +161,15 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Kadhali',
-                       author: 'Havoc Mathan',
-                       src: 'src/1 (30).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
                        name: 'Kanave Kanave',
                        author: 'David',
                        src: 'src/1 (31).mp3',
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Kannale Kollathe',
-                       author: 'Havoc Mathan',
-                       src: 'src/1 (32).mp3',
-                       cover: 'src/002.jpg'
-                   },{
                        name: 'Kannazhaga',
                        author: '3',
                        src: 'src/1 (33).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
-                       name: 'Karuthavanlaam Galeejaam',
-                       author: 'Velaikkaran',
-                       src: 'src/1 (34).mp3',
                        cover: 'src/002.jpg'
                    },
                    {
@@ -232,12 +197,6 @@ var player = new skPlayer ({
                        cover: 'src/002.jpg'
                    },
                    {
-                       name: 'Oxygen',
-                       author: 'Kavan',
-                       src: 'src/1 (39).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
                        name: 'Paas Aaya Kyun',
                        author: 'Aggar',
                        src: 'src/1 (40).mp3',
@@ -253,12 +212,6 @@ var player = new skPlayer ({
                        name: 'Poi Solla Intha',
                        author: 'April Madhatil',
                        src: 'src/1 (42).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
-                       name: 'Right By My Side',
-                       author: 'Nicki Minaj',
-                       src: 'src/1 (43).mp3',
                        cover: 'src/002.jpg'
                    },
                    {
@@ -289,18 +242,6 @@ var player = new skPlayer ({
                        name: 'Soniye Hiriye',
                        author: 'Shael',
                        src: 'src/1 (48).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
-                       name: 'Takkaru Takkaru',
-                       author: 'Takkaru Takkaru',
-                       src: 'src/1 (49).mp3',
-                       cover: 'src/002.jpg'
-                   },
-                   {
-                       name: 'Talking Body RMX',
-                       author: 'Tove Lo',
-                       src: 'src/1 (50).mp3',
                        cover: 'src/002.jpg'
                    },
                    {
@@ -340,21 +281,9 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'Chammak Challo',
-                    author: 'Ra One',
-                    src: 'src/1 (57).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Radioactive',
                     author: 'Imagine Dragon',
                     src: 'src/1 (58).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Baby Doll',
-                    author: 'Ragini MMS 2',
-                    src: 'src/1 (59).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
@@ -388,24 +317,6 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'Kannakula',
-                    author: 'UKA',
-                    src: 'src/1 (65).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Baaki Baatein',
-                    author: 'Arjun Kannuga',
-                    src: 'src/1 (66).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Backbone',
-                    author: 'Harry Sandhu',
-                    src: 'src/1 (67).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Dil Diyan Gallan',
                     author: 'TZH',
                     src: 'src/1 (68).mp3',
@@ -436,12 +347,6 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'Dil mein chuppa lunga',
-                    author: 'Wajah tum ho',
-                    src: 'src/1 (74).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Tum saath ho',
                     author: 'Tamasha',
                     src: 'src/1 (75).mp3',
@@ -451,18 +356,6 @@ var player = new skPlayer ({
                     name: 'Inna Sona',
                     author: 'Ok Janu',
                     src: 'src/1 (76).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Shape of you',
-                    author: 'Ed sheeran',
-                    src: 'src/1 (77).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Break up song',
-                    author: 'ADHM',
-                    src: 'src/1 (78).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
@@ -544,21 +437,9 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'Azhage',
-                    author: 'UKA',
-                    src: 'src/1 (97).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Creepin',
                     author: 'Ludacris',
                     src: 'src/1 (98).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Faded',
-                    author: 'Alan Walker',
-                    src: 'src/1 (99).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
@@ -592,12 +473,6 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'Animals',
-                    author: 'Maroon 5',
-                    src: 'src/1 (105).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Ari Ari',
                     author: 'Bombay Rockers',
                     src: 'src/1 (106).mp3',
@@ -610,7 +485,7 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'Baakusha tum ho',
+                    name: 'BaakuDha tum ho',
                     author: 'Kismat Connection',
                     src: 'src/1 (108).mp3',
                     cover: 'src/002.jpg'
@@ -622,27 +497,9 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'Kya Mujhe Pyar',
-                    author: 'KK',
-                    src: 'src/1 (156).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Labon Ko',
                     author: 'Bul Bulaiya',
                     src: 'src/1 (157).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Lahore',
-                    author: 'Guru Randhwa',
-                    src: 'src/1 (158).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Lat lag gai',
-                    author: 'Race 2',
-                    src: 'src/1 (159).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
@@ -727,12 +584,6 @@ var player = new skPlayer ({
                     name: 'Oru Nalkul ethanai',
                     author: 'Yaru di Mohini',
                     src: 'src/1 (174).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Oru Kili',
-                    author: 'Leelai',
-                    src: 'src/1 (175).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
@@ -909,12 +760,6 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'TREAT U BETTER',
-                    author: 'UKA',
-                    src: 'src/1 (205).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Tokyo Drift',
                     author: 'FF4',
                     src: 'src/1 (206).mp3',
@@ -957,21 +802,9 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'What Love is',
-                    author: 'Black Mirror',
-                    src: 'src/1 (214).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
                     name: 'Woh Ajnabee',
                     author: 'Train',
                     src: 'src/1 (215).mp3',
-                    cover: 'src/002.jpg'
-                },
-                {
-                    name: 'Yedhodho Enam',
-                    author: 'UKA',
-                    src: 'src/1 (216).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
@@ -1160,7 +993,7 @@ var player = new skPlayer ({
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'TOKYO DRIFT',
+                    name: 'TOKYO DRIFT RMX',
                     author: 'FF4',
                     src: 'src/1 (138).mp3',
                     cover: 'src/002.jpg'
@@ -1239,38 +1072,38 @@ var player = new skPlayer ({
                 },
                 {
                     name: 'SHOT DEKE GAYAB',
-                    author: 'LOKA', ADD
+                    author: 'LOKA', 
                     src: 'src/1 (151).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
                     name: 'BEGGIN',
-                    author: 'UKA', ADD
+                    author: 'UKA', 
                     src: 'src/1 (152).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'KADAK BAN', ADD
+                    name: 'KADAK BAN', 
                     author: 'Sethupathi',
                     src: 'src/1 (153).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
-                    name: 'CHAL BOMBAY', ADD
+                    name: 'CHAL BOMBAY', 
                     author: 'DIVINE',
                     src: 'src/1 (154).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
                     name: 'Duniya', 
-                    author: 'Akhil', Add
+                    author: 'Akhil', 
                     src: 'src/1 (155).mp3',
                     cover: 'src/002.jpg'
                 },
                 {
                     name: 'Standing by You',
                     author: 'UKA',
-                    src: 'src/1 (210).mp3', ADD
+                    src: 'src/1 (210).mp3', 
                     cover: 'src/002.jpg'
                 }
                ]
